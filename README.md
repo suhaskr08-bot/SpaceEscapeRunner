@@ -1,3 +1,13 @@
+Command to Create the Project
+Open your terminal and run:
+npx create-expo-app SpaceEscapeRunner
+What this does, piece by piece:
+
+npx — runs a tool without permanently installing it on your computer.
+create-expo-app — the official Expo tool that generates a new project with all the basic files and folders set up for you.
+SpaceEscapeRunner — the name of the project; it also becomes the folder name.
+
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
